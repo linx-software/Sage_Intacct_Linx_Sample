@@ -1,0 +1,16 @@
+{
+  "Id": "o3iq",
+  "Name": "operation",
+  "Properties": [
+    {
+      "Id": "aPPW",
+      "Name": "authentication",
+      "Type": "Custom:vhFW"
+    },
+    {
+      "Id": "UecE",
+      "Name": "content",
+      "Type": "Custom:Yctw"
+    }
+  ]
+}

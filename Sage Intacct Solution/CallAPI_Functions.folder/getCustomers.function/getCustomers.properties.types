@@ -1,0 +1,16 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "RgAl",
+      "Properties": [
+        {
+          "Id": "2FNs",
+          "Name": "WHENMODIFIED",
+          "Type": "Compiled:DateTime",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

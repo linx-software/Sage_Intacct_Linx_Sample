@@ -1,0 +1,36 @@
+{
+  "Id": "n3PK",
+  "Name": "authentication",
+  "Properties": [
+    {
+      "Id": "mXJJ",
+      "Name": "status",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KecH",
+      "Name": "userid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9LAj",
+      "Name": "companyid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "K5vz",
+      "Name": "locationid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1z0Y",
+      "Name": "sessiontimestamp",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "SeUe",
+      "Name": "sessiontimeout",
+      "Type": "Compiled:String"
+    }
+  ]
+}

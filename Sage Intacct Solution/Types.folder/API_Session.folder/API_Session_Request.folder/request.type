@@ -1,0 +1,16 @@
+{
+  "Id": "nbHS",
+  "Name": "request",
+  "Properties": [
+    {
+      "Id": "kWEn",
+      "Name": "control",
+      "Type": "Custom:h3T6"
+    },
+    {
+      "Id": "pEuJ",
+      "Name": "operation",
+      "Type": "Custom:n2G3"
+    }
+  ]
+}

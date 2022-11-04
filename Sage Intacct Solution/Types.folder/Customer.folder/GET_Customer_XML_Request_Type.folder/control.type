@@ -1,0 +1,36 @@
+{
+  "Id": "Vh0V",
+  "Name": "control",
+  "Properties": [
+    {
+      "Id": "8OoR",
+      "Name": "senderid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NjTd",
+      "Name": "password",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lBje",
+      "Name": "controlid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xekO",
+      "Name": "uniqueid",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "TdkJ",
+      "Name": "dtdversion",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "b9Qr",
+      "Name": "includewhitespace",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

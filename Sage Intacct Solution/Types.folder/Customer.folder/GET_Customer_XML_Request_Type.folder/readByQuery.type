@@ -1,0 +1,26 @@
+{
+  "Id": "YF7m",
+  "Name": "readByQuery",
+  "Properties": [
+    {
+      "Id": "ULra",
+      "Name": "object",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hYGa",
+      "Name": "fields",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Xomr",
+      "Name": "query",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "qiHn",
+      "Name": "pagesize",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

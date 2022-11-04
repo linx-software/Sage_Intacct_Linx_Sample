@@ -1,0 +1,11 @@
+{
+  "Id": "UgCW",
+  "Name": "authentication",
+  "Properties": [
+    {
+      "Id": "NEsT",
+      "Name": "sessionid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:1m0s",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "Customer_ReturnList",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:1m0s"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:1m0s",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "ParsedExpression": "{\"NAME\":{\"LinxExpression\":\"[PARSED]\"}, \"DISPLAYCONTACT_46PRINTAS\":{\"LinxExpression\":\"[PARSED]\"}}",
+        "ExpressionPlaceholders": [
+          {
+            "typePath": [
+              "NAME"
+            ],
+            "expression": {
+              "Expression": "ForEach_Customer.Loop.NAME",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "DISPLAYCONTACT_46PRINTAS"
+            ],
+            "expression": {
+              "Expression": "ForEach_Customer.Loop.DISPLAYCONTACT_46PRINTAS",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          }
+        ]
+      },
+      "ValueType": "Linx.JsonExpression"
+    }
+  ]
+}

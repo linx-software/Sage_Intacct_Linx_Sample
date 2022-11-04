@@ -1,0 +1,16 @@
+{
+  "Id": "JgMr",
+  "Name": "operation",
+  "Properties": [
+    {
+      "Id": "iQND",
+      "Name": "authentication",
+      "Type": "Custom:n3PK"
+    },
+    {
+      "Id": "I1dk",
+      "Name": "result",
+      "Type": "Custom:sc4J"
+    }
+  ]
+}

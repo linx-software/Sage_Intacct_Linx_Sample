@@ -1,0 +1,19 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "List:Custom:1m0s",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "Customer_ReturnList",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:1m0s"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "RuntimeCharacteristics": {
+    "IsTerminating": true,
+    "ExecutionPathExecution": "ZeroOrMore"
+  }
+}

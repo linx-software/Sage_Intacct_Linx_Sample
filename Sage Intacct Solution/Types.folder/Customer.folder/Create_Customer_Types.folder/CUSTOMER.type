@@ -1,0 +1,191 @@
+{
+  "Id": "ZcDx",
+  "Name": "CUSTOMER",
+  "Properties": [
+    {
+      "Id": "FIak",
+      "Name": "CUSTOMERID",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "cxcm",
+      "Name": "NAME",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UJFg",
+      "Name": "DISPLAYCONTACT",
+      "Type": "Custom:CHm3"
+    },
+    {
+      "Id": "c0qt",
+      "Name": "ONETIME",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "lFKA",
+      "Name": "STATUS",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "FE63",
+      "Name": "HIDEDISPLAYCONTACT",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "ywp9",
+      "Name": "CUSTTYPE",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "LgJK",
+      "Name": "PARENTID",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "wGKE",
+      "Name": "GLGROUP",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "i2Zy",
+      "Name": "TERRITORYID",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "G7nl",
+      "Name": "SUPDOCID",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "f20H",
+      "Name": "TERMNAME",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "iRZq",
+      "Name": "OFFSETGLACCOUNTNO",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "3XvB",
+      "Name": "ARACCOUNT",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "hKWo",
+      "Name": "SHIPPINGMETHOD",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "LhCN",
+      "Name": "RESALENO",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "JopX",
+      "Name": "TAXID",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rMfL",
+      "Name": "CREDITLIMIT",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "kgZR",
+      "Name": "ONHOLD",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "1cXH",
+      "Name": "DELIVERY_OPTIONS",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BXhO",
+      "Name": "CUSTMESSAGEID",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Q6V0",
+      "Name": "COMMENTS",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Zv7p",
+      "Name": "CURRENCY",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UF5X",
+      "Name": "ARINVOICEPRINTTEMPLATEID",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "LG2a",
+      "Name": "OEQUOTEPRINTTEMPLATEID",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lbAi",
+      "Name": "OEORDERPRINTTEMPLATEID",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "a2Za",
+      "Name": "OELISTPRINTTEMPLATEID",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ZMZW",
+      "Name": "OEINVOICEPRINTTEMPLATEID",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JBcp",
+      "Name": "OEADJPRINTTEMPLATEID",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Va3m",
+      "Name": "OEOTHERPRINTTEMPLATEID",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ZkGP",
+      "Name": "CONTACTINFO",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "qWff",
+      "Name": "BILLTO",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "pRZU",
+      "Name": "SHIPTO",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "6L4y",
+      "Name": "OBJECTRESTRICTION",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "sIYc",
+      "Name": "RESTRICTEDLOCATIONS",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vyl3",
+      "Name": "RESTRICTEDDEPARTMENTS",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3KaV",
+      "Name": "CUSTOMFIELD1",
+      "Type": "Compiled:String"
+    }
+  ]
+}

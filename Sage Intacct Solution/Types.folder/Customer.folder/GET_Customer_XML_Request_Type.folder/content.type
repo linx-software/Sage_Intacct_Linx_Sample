@@ -1,0 +1,11 @@
+{
+  "Id": "U5Fm",
+  "Name": "content",
+  "Properties": [
+    {
+      "Id": "0b65",
+      "Name": "function",
+      "Type": "Custom:36tB"
+    }
+  ]
+}

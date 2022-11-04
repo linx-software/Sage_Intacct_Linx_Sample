@@ -1,0 +1,16 @@
+{
+  "Id": "n2G3",
+  "Name": "operation",
+  "Properties": [
+    {
+      "Id": "JQlj",
+      "Name": "authentication",
+      "Type": "Custom:nbVW"
+    },
+    {
+      "Id": "Ub52",
+      "Name": "content",
+      "Type": "Custom:d4VY"
+    }
+  ]
+}

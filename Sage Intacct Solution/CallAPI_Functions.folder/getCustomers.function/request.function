@@ -1,0 +1,112 @@
+{
+  "Properties": [
+    {
+      "Id": "Type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "Custom:01e2",
+      "ValueType": "Linx.ValidCustomTypeReference"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:01e2",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "ParsedExpression": "{\"control\":{\"senderid\":{\"LinxExpression\":\"[PARSED]\"}, \"password\":{\"LinxExpression\":\"[PARSED]\"}, \"controlid\":{\"LinxExpression\":\"[PARSED]\"}, \"uniqueid\":false, \"dtdversion\":\"3.0\", \"includewhitespace\":false}, \"operation\":{\"authentication\":{\"sessionid\":{\"LinxExpression\":\"[PARSED]\"}}, \"content\":{\"function\":{\"query\":{\"object\":\"CUSTOMER\", \"filter\":{\"like\":[\"WHENMODIFIED\",{\"LinxExpression\":\"[PARSED]\"}]}, \"options\":{\"returnformat\":\"json\"}, \"select\":[\"NAME\",\"DISPLAYCONTACT.PRINTAS\"], \"pagesize\":{\"LinxExpression\":\"[PARSED]\"}, \"offset\":{\"LinxExpression\":\"[PARSED]\"}}}}}}",
+        "ExpressionPlaceholders": [
+          {
+            "typePath": [
+              "control",
+              "senderid"
+            ],
+            "expression": {
+              "Expression": "$.Settings.UserName",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "control",
+              "password"
+            ],
+            "expression": {
+              "Expression": "$.Settings.password",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "control",
+              "controlid"
+            ],
+            "expression": {
+              "Expression": "$.Settings.controlid",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "operation",
+              "authentication",
+              "sessionid"
+            ],
+            "expression": {
+              "Expression": "generateAPISessions.SessionID",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "operation",
+              "content",
+              "function",
+              "query",
+              "filter",
+              "like",
+              "[]"
+            ],
+            "expression": {
+              "Expression": "WHENMODIFIED",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "operation",
+              "content",
+              "function",
+              "query",
+              "pagesize"
+            ],
+            "expression": {
+              "Expression": "PageSize",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:Int64"
+            }
+          },
+          {
+            "typePath": [
+              "operation",
+              "content",
+              "function",
+              "query",
+              "offset"
+            ],
+            "expression": {
+              "Expression": "Offset",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:Int64"
+            }
+          }
+        ]
+      },
+      "ValueType": "Linx.JsonExpression"
+    }
+  ],
+  "Result": "Custom:01e2"
+}

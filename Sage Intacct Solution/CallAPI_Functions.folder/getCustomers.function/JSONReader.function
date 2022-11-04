@@ -1,0 +1,29 @@
+{
+  "Properties": [
+    {
+      "Id": "Json string",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetCustomers.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Output type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "List:Custom:1m0s",
+      "ValueType": "Twenty57.Linx.SolutionDependencies.Types.ListTypeReference, Twenty57.Linx.SolutionDependencies.Types, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    {
+      "Id": "Property map",
+      "Type": "Compiled:Twenty57.Linx.Plugins.Json.Common.Mappings, Twenty57.Linx.Plugins.Json, Version=1.0.2.0, Culture=neutral, PublicKeyToken=null",
+      "ValueUsage": "DesignTime",
+      "Value": "[{\"JsonName\":\"NAME\",\"PropertyName\":\"NAME\"},{\"JsonName\":\"DISPLAYCONTACT.PRINTAS\",\"PropertyName\":\"DISPLAYCONTACT_46PRINTAS\"}]"
+    }
+  ],
+  "Result": "List:Custom:1m0s"
+}

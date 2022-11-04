@@ -1,0 +1,16 @@
+{
+  "Id": "B9gs",
+  "Name": "request",
+  "Properties": [
+    {
+      "Id": "quKI",
+      "Name": "control",
+      "Type": "Custom:Vh0V"
+    },
+    {
+      "Id": "NGgR",
+      "Name": "operation",
+      "Type": "Custom:733V"
+    }
+  ]
+}

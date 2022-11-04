@@ -1,0 +1,21 @@
+{
+  "Id": "5H1Q",
+  "Name": "login",
+  "Properties": [
+    {
+      "Id": "0A3q",
+      "Name": "userid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "0rUZ",
+      "Name": "companyid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fWWC",
+      "Name": "password",
+      "Type": "Compiled:String"
+    }
+  ]
+}

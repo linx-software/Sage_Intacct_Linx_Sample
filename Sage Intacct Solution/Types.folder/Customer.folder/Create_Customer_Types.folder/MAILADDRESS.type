@@ -1,0 +1,36 @@
+{
+  "Id": "aSND",
+  "Name": "MAILADDRESS",
+  "Properties": [
+    {
+      "Id": "t6Jm",
+      "Name": "ADDRESS1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8bPH",
+      "Name": "ADDRESS2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zrPa",
+      "Name": "CITY",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "a252",
+      "Name": "STATE",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "GCUK",
+      "Name": "ZIP",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "aihC",
+      "Name": "COUNTRY",
+      "Type": "Compiled:String"
+    }
+  ]
+}

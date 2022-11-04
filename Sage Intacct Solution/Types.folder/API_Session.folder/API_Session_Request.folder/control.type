@@ -1,0 +1,36 @@
+{
+  "Id": "h3T6",
+  "Name": "control",
+  "Properties": [
+    {
+      "Id": "M7UM",
+      "Name": "senderid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1oIP",
+      "Name": "password",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hArp",
+      "Name": "controlid",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "RFIv",
+      "Name": "uniqueid",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "bZ0a",
+      "Name": "dtdversion",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PTVC",
+      "Name": "includewhitespace",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

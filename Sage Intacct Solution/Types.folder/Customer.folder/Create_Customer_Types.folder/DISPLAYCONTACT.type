@@ -1,0 +1,106 @@
+{
+  "Id": "CHm3",
+  "Name": "DISPLAYCONTACT",
+  "Properties": [
+    {
+      "Id": "eq4v",
+      "Name": "PRINTAS",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "0m9Y",
+      "Name": "COMPANYNAME",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "bRyK",
+      "Name": "TAXABLE",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "IqjN",
+      "Name": "TAXGROUP",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "qslH",
+      "Name": "TAXSOLUTIONID",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8VcP",
+      "Name": "TAXSCHEDULE",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rbWJ",
+      "Name": "PREFIX",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "exEP",
+      "Name": "FIRSTNAME",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yQAK",
+      "Name": "LASTNAME",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xW9i",
+      "Name": "INITIAL",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mpFU",
+      "Name": "PHONE1",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "t4hW",
+      "Name": "PHONE2",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "rtCt",
+      "Name": "CELLPHONE",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "QhvJ",
+      "Name": "PAGER",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "XoyK",
+      "Name": "FAX",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "PTfa",
+      "Name": "EMAIL1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vC7T",
+      "Name": "EMAIL2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "0Ejm",
+      "Name": "URL1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "gH3H",
+      "Name": "URL2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "uTtl",
+      "Name": "MAILADDRESS",
+      "Type": "Custom:aSND"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "36tB",
+  "Name": "function",
+  "Properties": [
+    {
+      "Id": "qQmU",
+      "Name": "readByQuery",
+      "Type": "Custom:YF7m"
+    }
+  ]
+}

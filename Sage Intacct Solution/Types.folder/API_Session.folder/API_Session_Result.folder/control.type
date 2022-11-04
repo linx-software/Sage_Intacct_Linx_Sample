@@ -1,0 +1,31 @@
+{
+  "Id": "hQQD",
+  "Name": "control",
+  "Properties": [
+    {
+      "Id": "PKIT",
+      "Name": "status",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Sl20",
+      "Name": "senderid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BzmJ",
+      "Name": "controlid",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "jlbx",
+      "Name": "uniqueid",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "GgfI",
+      "Name": "dtdversion",
+      "Type": "Compiled:Double"
+    }
+  ]
+}

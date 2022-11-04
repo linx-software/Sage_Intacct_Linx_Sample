@@ -1,0 +1,34 @@
+{
+  "Properties": [
+    {
+      "Id": "Data",
+      "Type": "Compiled:Object",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "Request_Type",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:nbHS"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Encoding",
+      "Type": "Compiled:Twenty57.Linx.Plugins.Xml.XmlWriter.Encoding, Twenty57.Linx.Plugins.Xml, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null",
+      "ValueUsage": "DesignTime",
+      "Value": "UTF8"
+    },
+    {
+      "Id": "Root element name",
+      "Type": "Compiled:String",
+      "ValueUsage": "DesignTime",
+      "Value": "request"
+    },
+    {
+      "Id": "Transform XSLT",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": ""
+    }
+  ],
+  "Result": "Compiled:String"
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "tx4q",
+  "Name": "getAPISession",
+  "Properties": [
+    {
+      "Id": "VK2i",
+      "Name": "getAPISession",
+      "Type": "Custom:J5Or"
+    }
+  ]
+}

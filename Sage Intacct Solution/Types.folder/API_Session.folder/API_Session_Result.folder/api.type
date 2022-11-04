@@ -1,0 +1,21 @@
+{
+  "Id": "B81m",
+  "Name": "api",
+  "Properties": [
+    {
+      "Id": "sELn",
+      "Name": "sessionid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "32PL",
+      "Name": "endpoint",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XVgi",
+      "Name": "locationid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

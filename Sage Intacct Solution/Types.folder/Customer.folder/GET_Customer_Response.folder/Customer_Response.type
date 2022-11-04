@@ -1,0 +1,16 @@
+{
+  "Id": "1m0s",
+  "Name": "Customer_Response",
+  "Properties": [
+    {
+      "Id": "RlBj",
+      "Name": "NAME",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "SlER",
+      "Name": "DISPLAYCONTACT_46PRINTAS",
+      "Type": "Compiled:String"
+    }
+  ]
+}

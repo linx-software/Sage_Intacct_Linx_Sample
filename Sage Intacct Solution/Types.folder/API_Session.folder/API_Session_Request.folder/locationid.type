@@ -1,0 +1,11 @@
+{
+  "Id": "J5Or",
+  "Name": "locationid",
+  "Properties": [
+    {
+      "Id": "DTUb",
+      "Name": "locationid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

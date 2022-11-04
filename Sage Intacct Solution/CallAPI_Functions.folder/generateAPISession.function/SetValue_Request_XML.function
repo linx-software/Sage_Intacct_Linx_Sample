@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "XMLWriter_CreateXML.Replace(\"<function>\", \"<function controlid=\\\"\\\">\").Replace(\"&lt;getAPISession/&gt;\", \"<getAPISession/>\")",
+        "CompiledExpression": "={0}.Replace(\"<function>\",\"<function controlid=\\\"\\\">\").Replace(\"&lt;getAPISession/&gt;\",\"<getAPISession/>\")",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "Request_XML",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

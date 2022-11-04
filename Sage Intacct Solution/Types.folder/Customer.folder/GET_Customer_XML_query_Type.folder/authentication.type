@@ -1,0 +1,11 @@
+{
+  "Id": "vhFW",
+  "Name": "authentication",
+  "Properties": [
+    {
+      "Id": "naZI",
+      "Name": "sessionid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

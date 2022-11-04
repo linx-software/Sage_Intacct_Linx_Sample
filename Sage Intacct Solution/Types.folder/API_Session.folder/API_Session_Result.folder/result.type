@@ -1,0 +1,26 @@
+{
+  "Id": "sc4J",
+  "Name": "result",
+  "Properties": [
+    {
+      "Id": "jAYT",
+      "Name": "status",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "FPWA",
+      "Name": "function",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Tluo",
+      "Name": "controlid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "V5nt",
+      "Name": "data",
+      "Type": "Custom:TCk5"
+    }
+  ]
+}

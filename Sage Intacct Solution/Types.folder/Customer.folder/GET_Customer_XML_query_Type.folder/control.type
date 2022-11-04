@@ -1,0 +1,36 @@
+{
+  "Id": "Et0e",
+  "Name": "control",
+  "Properties": [
+    {
+      "Id": "PBts",
+      "Name": "senderid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4Jfr",
+      "Name": "password",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yhAX",
+      "Name": "controlid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xEqV",
+      "Name": "uniqueid",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "585Q",
+      "Name": "dtdversion",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Bt3M",
+      "Name": "includewhitespace",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

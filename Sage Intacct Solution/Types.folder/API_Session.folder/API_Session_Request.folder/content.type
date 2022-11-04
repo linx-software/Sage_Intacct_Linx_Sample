@@ -1,0 +1,11 @@
+{
+  "Id": "d4VY",
+  "Name": "content",
+  "Properties": [
+    {
+      "Id": "0N2Z",
+      "Name": "function",
+      "Type": "Compiled:String"
+    }
+  ]
+}

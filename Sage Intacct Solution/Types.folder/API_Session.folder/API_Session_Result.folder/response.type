@@ -1,0 +1,16 @@
+{
+  "Id": "CGlw",
+  "Name": "response",
+  "Properties": [
+    {
+      "Id": "dbJT",
+      "Name": "control",
+      "Type": "Custom:hQQD"
+    },
+    {
+      "Id": "yPCB",
+      "Name": "operation",
+      "Type": "Custom:JgMr"
+    }
+  ]
+}

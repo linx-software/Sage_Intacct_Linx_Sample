@@ -1,0 +1,11 @@
+{
+  "Id": "Yctw",
+  "Name": "content",
+  "Properties": [
+    {
+      "Id": "rORQ",
+      "Name": "function",
+      "Type": "Custom:efhm"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "Properties": [
+    {
+      "Id": "Type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "Custom:CGlw",
+      "ValueType": "Linx.ValidCustomTypeReference"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:CGlw",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "ParsedExpression": "{\"control\":{\"status\":{\"LinxExpression\":\"[PARSED]\"}, \"senderid\":{\"LinxExpression\":\"[PARSED]\"}, \"controlid\":{\"LinxExpression\":\"[PARSED]\"}, \"uniqueid\":{\"LinxExpression\":\"[PARSED]\"}, \"dtdversion\":{\"LinxExpression\":\"[PARSED]\"}}, \"operation\":{\"authentication\":{\"status\":{\"LinxExpression\":\"[PARSED]\"}, \"userid\":{\"LinxExpression\":\"[PARSED]\"}, \"companyid\":{\"LinxExpression\":\"[PARSED]\"}, \"locationid\":{\"LinxExpression\":\"[PARSED]\"}, \"sessiontimestamp\":{\"LinxExpression\":\"[PARSED]\"}, \"sessiontimeout\":{\"LinxExpression\":\"[PARSED]\"}}, \"result\":{\"status\":{\"LinxExpression\":\"[PARSED]\"}, \"function\":{\"LinxExpression\":\"[PARSED]\"}, \"controlid\":{\"LinxExpression\":\"[PARSED]\"}, \"data\":{\"LinxExpression\":\"[PARSED]\"}}}}",
+        "ExpressionPlaceholders": [
+          {
+            "typePath": [
+              "control",
+              "status"
+            ],
+            "expression": {
+              "Expression": "Generate_API_Session.ResponseBody.control.status",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "control",
+              "senderid"
+            ],
+            "expression": {
+              "Expression": "Generate_API_Session.ResponseBody.control.senderid",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "control",
+              "controlid"
+            ],
+            "expression": {
+              "Expression": "Generate_API_Session.ResponseBody.control.controlid",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:Int64"
+            }
+          },
+          {
+            "typePath": [
+              "control",
+              "uniqueid"
+            ],
+            "expression": {
+              "Expression": "Generate_API_Session.ResponseBody.control.uniqueid",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:Boolean"
+            }
+          },
+          {
+            "typePath": [
+              "control",
+              "dtdversion"
+            ],
+            "expression": {
+              "Expression": "Generate_API_Session.ResponseBody.control.dtdversion",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:Double"
+            }
+          },
+          {
+            "typePath": [
+              "operation",
+              "authentication",
+              "status"
+            ],
+            "expression": {
+              "Expression": "Generate_API_Session.ResponseBody.operation.authentication.status",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "operation",
+              "authentication",
+              "userid"
+            ],
+            "expression": {
+              "Expression": "Generate_API_Session.ResponseBody.operation.authentication.userid",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "operation",
+              "authentication",
+              "companyid"
+            ],
+            "expression": {
+              "Expression": "Generate_API_Session.ResponseBody.operation.authentication.companyid",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "operation",
+              "authentication",
+              "locationid"
+            ],
+            "expression": {
+              "Expression": "Generate_API_Session.ResponseBody.operation.authentication.locationid",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "operation",
+              "authentication",
+              "sessiontimestamp"
+            ],
+            "expression": {
+              "Expression": "Generate_API_Session.ResponseBody.operation.authentication.sessiontimestamp",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "operation",
+              "authentication",
+              "sessiontimeout"
+            ],
+            "expression": {
+              "Expression": "Generate_API_Session.ResponseBody.operation.authentication.sessiontimeout",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "operation",
+              "result",
+              "status"
+            ],
+            "expression": {
+              "Expression": "Generate_API_Session.ResponseBody.operation.result.status",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "operation",
+              "result",
+              "function"
+            ],
+            "expression": {
+              "Expression": "Generate_API_Session.ResponseBody.operation.result.function",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "operation",
+              "result",
+              "controlid"
+            ],
+            "expression": {
+              "Expression": "Generate_API_Session.ResponseBody.operation.result.controlid",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "operation",
+              "result",
+              "data"
+            ],
+            "expression": {
+              "Expression": "Generate_API_Session.ResponseBody.operation.result.data",
+              "CompiledExpression": "={0}",
+              "Type": "Custom:TCk5"
+            }
+          }
+        ]
+      },
+      "ValueType": "Linx.JsonExpression"
+    }
+  ],
+  "Result": "Custom:CGlw"
+}

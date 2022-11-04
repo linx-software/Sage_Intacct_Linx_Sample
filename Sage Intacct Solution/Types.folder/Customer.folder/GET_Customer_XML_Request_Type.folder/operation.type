@@ -1,0 +1,16 @@
+{
+  "Id": "733V",
+  "Name": "operation",
+  "Properties": [
+    {
+      "Id": "TJwf",
+      "Name": "authentication",
+      "Type": "Custom:VnHI"
+    },
+    {
+      "Id": "3Oib",
+      "Name": "content",
+      "Type": "Custom:U5Fm"
+    }
+  ]
+}

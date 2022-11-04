@@ -1,0 +1,16 @@
+{
+  "Id": "uLNn",
+  "Name": "operation",
+  "Properties": [
+    {
+      "Id": "uarw",
+      "Name": "authentication",
+      "Type": "Custom:UgCW"
+    },
+    {
+      "Id": "dt7I",
+      "Name": "content",
+      "Type": "Custom:Nxrj"
+    }
+  ]
+}

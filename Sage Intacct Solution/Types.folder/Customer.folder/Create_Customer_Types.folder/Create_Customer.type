@@ -1,0 +1,16 @@
+{
+  "Id": "0djA",
+  "Name": "Create_Customer",
+  "Properties": [
+    {
+      "Id": "KyS8",
+      "Name": "control",
+      "Type": "Custom:rESw"
+    },
+    {
+      "Id": "j2Dn",
+      "Name": "operation",
+      "Type": "Custom:uLNn"
+    }
+  ]
+}

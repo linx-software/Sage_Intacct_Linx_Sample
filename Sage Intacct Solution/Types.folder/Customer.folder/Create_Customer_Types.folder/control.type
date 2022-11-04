@@ -1,0 +1,36 @@
+{
+  "Id": "rESw",
+  "Name": "control",
+  "Properties": [
+    {
+      "Id": "4392",
+      "Name": "senderid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9iqc",
+      "Name": "password",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AKUD",
+      "Name": "controlid",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "H3SP",
+      "Name": "uniqueid",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "EAvR",
+      "Name": "dtdversion",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "bxxO",
+      "Name": "includewhitespace",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

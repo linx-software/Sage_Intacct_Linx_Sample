@@ -1,0 +1,11 @@
+{
+  "Id": "TCk5",
+  "Name": "data",
+  "Properties": [
+    {
+      "Id": "m6CQ",
+      "Name": "api",
+      "Type": "Custom:B81m"
+    }
+  ]
+}

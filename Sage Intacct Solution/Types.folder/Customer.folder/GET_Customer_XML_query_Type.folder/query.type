@@ -1,0 +1,36 @@
+{
+  "Id": "VmY6",
+  "Name": "query",
+  "Properties": [
+    {
+      "Id": "wtx1",
+      "Name": "object",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PykF",
+      "Name": "filter",
+      "Type": "Custom:P40y"
+    },
+    {
+      "Id": "dA5l",
+      "Name": "options",
+      "Type": "Custom:uTD4"
+    },
+    {
+      "Id": "wPGa",
+      "Name": "select",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "Hh5p",
+      "Name": "pagesize",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9NEV",
+      "Name": "offset",
+      "Type": "Compiled:String"
+    }
+  ]
+}

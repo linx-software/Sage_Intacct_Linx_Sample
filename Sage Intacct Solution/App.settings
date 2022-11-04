@@ -1,0 +1,44 @@
+[
+  {
+    "Id": "X7oI",
+    "Name": "Senderid",
+    "Type": "Compiled:String",
+    "Secret": true
+  },
+  {
+    "Id": "FChZ",
+    "Name": "password",
+    "Type": "Compiled:String",
+    "Secret": true
+  },
+  {
+    "Id": "Omkr",
+    "Name": "controlid",
+    "Type": "Compiled:String",
+    "Value": ""
+  },
+  {
+    "Id": "9FvM",
+    "Name": "UserName",
+    "Type": "Compiled:String",
+    "Value": ""
+  },
+  {
+    "Id": "9hiw",
+    "Name": "Company_ID",
+    "Type": "Compiled:String",
+    "Value": ""
+  },
+  {
+    "Id": "wl0m",
+    "Name": "Company_Password",
+    "Type": "Compiled:String",
+    "Value": ""
+  },
+  {
+    "Id": "4Cpx",
+    "Name": "Company_UserID",
+    "Type": "Compiled:String",
+    "Value": ""
+  }
+]
